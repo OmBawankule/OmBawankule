@@ -1,5 +1,20 @@
-# 💫 About Me:
-# Om Bawankule<br>### Software Developer | Backend Engineering | Full-Stack Development<br><br>I am a Software Developer focused on designing and developing scalable, maintainable, and practical software applications. My experience spans backend engineering, RESTful API development, database integration, application architecture, and full-stack development.<br><br>I have worked with **Java, Spring Boot, Python, FastAPI, React, TypeScript, and PostgreSQL**, building backend services, modular application components, database-driven systems, and complete software solutions.<br><br>My development approach emphasizes clean code, structured architecture, performance, security, and maintainability. I enjoy translating business requirements into technical solutions and taking ownership of development tasks from implementation through testing and debugging.<br><br>**Core Focus**<br>- Backend Development & REST API Engineering<br>- Java, Spring Boot & Python<br>- React, TypeScript & Frontend Integration<br>- PostgreSQL, Hibernate & Spring Data JPA<br>- Database Design & Application Architecture<br>- API Testing, Debugging & Optimization<br><br>**Driven by engineering discipline. Focused on building software that solves real-world problems.**
+# 💫 About Me
+
+## Om Bawankule
+### Software Developer | Backend & Full-Stack Engineering
+
+Software Developer specializing in backend development, REST API engineering, and database-driven applications. Experienced in building software solutions using **Java, Spring Boot, Python, FastAPI, React, TypeScript, and PostgreSQL**.
+
+Focused on clean architecture, maintainable code, and developing reliable applications that solve real-world problems.
+
+### 🛠️ Technical Focus
+- **Backend:** Java, Spring Boot, Python, FastAPI
+- **Frontend:** React, TypeScript, JavaScript
+- **Database:** PostgreSQL, Hibernate, Spring Data JPA
+- **Development:** REST APIs, Database Design, Testing & Debugging
+
+### 🚀
+Building reliable software. Solving real-world problems.
 
 
 ## 🌐 Socials:
