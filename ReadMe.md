@@ -13,8 +13,7 @@ Focused on clean architecture, maintainable code, and developing reliable applic
 - **Database:** PostgreSQL, Hibernate, Spring Data JPA
 - **Development:** REST APIs, Database Design, Testing & Debugging
 
-### 🚀
-Building reliable software. Solving real-world problems.
+### 🚀 Building reliable software. Solving real-world problems.
 
 
 ## 🌐 Socials:
